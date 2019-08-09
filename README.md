@@ -1,2 +1,2 @@
 # readme-template
-A good readme template based on PurpleBooth / README-Template.md
+基于PurpleBooth的README-Template.md模板给出了中文翻译的版本
